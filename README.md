@@ -1,2 +1,2 @@
 # tareas_iele356
-Tareas realizadas en Análisis de Datos
+Tareas realizadas de Análisis de Datos
